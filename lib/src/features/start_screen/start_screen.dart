@@ -75,7 +75,8 @@ class SnackScreen extends StatelessWidget {
                           );
                         },
                         style: ElevatedButton.styleFrom(
-                          backgroundColor: Color.fromARGB(255, 226, 115, 152),
+                          backgroundColor:
+                              const Color.fromARGB(255, 226, 115, 152),
                           padding: const EdgeInsets.symmetric(
                               horizontal: 50, vertical: 10),
                           textStyle: const TextStyle(fontSize: 18),
